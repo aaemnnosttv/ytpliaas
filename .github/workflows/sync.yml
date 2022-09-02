@@ -1,0 +1,27 @@
+name: Sync
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - run: node src/fetch-playlist.mjs > dist/api/playlist-items.json
+        env:
+          PLAYLIST_ID: ${{ secrets.PLAYLIST_ID }}
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+
+      - run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add dist
+          git diff --staged --quiet && echo 'No updates to commit; exiting!' && exit 0
+          git commit -m 'updating playlist items'
+          git push origin
