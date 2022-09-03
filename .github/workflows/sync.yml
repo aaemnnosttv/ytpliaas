@@ -1,6 +1,8 @@
 name: Sync
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 0,12 * * *'
 
 jobs:
   sync-playlist:
