@@ -4550,7 +4550,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "K7e2cJ4THjWT7abkbfDjiLx9mx4",
+        "etag": "X5qjVDhApaQdDSVDznXhAn6qZog",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wODI5MDc3MjQwMDlCRjdG",
         "snippet": {
             "publishedAt": "2022-10-28T13:07:55Z",
@@ -4572,6 +4572,11 @@
                     "url": "https://i.ytimg.com/vi/-LAoix0Or2I/hqdefault.jpg",
                     "width": 480,
                     "height": 360
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-LAoix0Or2I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
                 }
             },
             "channelTitle": "YouTube Movies",
@@ -9522,7 +9527,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "dZcYBXpxClpahlt4IgtT1UBGY7o",
+        "etag": "q1DlvYLRhP2WFn3sOTB-yns3JHQ",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xQURCNjIzMjVEN0JBNTZF",
         "snippet": {
             "publishedAt": "2022-10-28T13:07:55Z",
@@ -9544,6 +9549,11 @@
                     "url": "https://i.ytimg.com/vi/MGpkYWB3k50/hqdefault.jpg",
                     "width": 480,
                     "height": 360
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MGpkYWB3k50/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
                 }
             },
             "channelTitle": "YouTube Movies",
