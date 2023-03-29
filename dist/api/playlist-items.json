@@ -800,7 +800,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "dZ09v3B3f5cV7poAH1GkCtBDYog",
+        "etag": "Zi1gTeoZdoAQqpbW0YY_X3lXKIs",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC40NURDNEMxMzhCRDQ3QkY3",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -5218,7 +5218,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "X8QjB4tBbWnsvkT75hhq3oNkqRY",
+        "etag": "bkrjpO-w3DJskDPW2wEq7dFLdLM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41OTQzMDQxQjZDQkU3NERC",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -7897,7 +7897,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "SBqQ1jQ1CfWcmOVSILwSRY-kuAI",
+        "etag": "OLgCQ344spoKnfOAIreYSB4wxIk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC42OTcwQjNGMzFGQTc3QkNB",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -11516,49 +11516,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "ptrd4qfw_Fl1j3uvwBxa-u0eNyg",
+        "etag": "6xS02i6nTBvXxtE-bCIX-MJXtFI",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC44QTdBMDA0QUMzNERBMTI1",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Butter",
-            "description": "Butter is a smart, funny high school junior who happens to be obese. He secretly befriends the prettiest girl in school via social media by pretending to be a jock from another school. As Butter struggles with bullying and self-esteem at school, he plans an incredible social media stunt that will risk his life but gain him attention and popularity. Can he really go through with it?",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/C7wnDXFHTt8/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/C7wnDXFHTt8/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/C7wnDXFHTt8/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/C7wnDXFHTt8/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/C7wnDXFHTt8/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 245,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "C7wnDXFHTt8"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
