@@ -16921,49 +16921,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "mSl3xV1H_Rd-wBYfDIEA8TdWHNM",
+        "etag": "YByookXxhBOfopBkjx8Af-NDx8c",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5FRUMzNjlEQjdBODBCM0E0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Missing 411: The Hunted",
-            "description": "Hunters have been disappearing from North American wildlands for hundreds of years, many without leaving a trace. Former police detective David Paulides was initially brought on to investigate the circumstances around the many mysterious disappearances - here he presents the haunting true stories of hunters experiencing the unexplainable. Missing 411: The Hunted is based on the book by Paulides, which documents 185 cases of missing peoples from four different countries. All 185 cases fit a narrowly defined profile that was refined after researching thousands of missing person reports; these cases are the most difficult, defy common sense, challenge conventional wisdom and remain unexplained.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/khwPVkoW8IE/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/khwPVkoW8IE/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/khwPVkoW8IE/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/khwPVkoW8IE/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/khwPVkoW8IE/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 360,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "khwPVkoW8IE"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
