@@ -2069,13 +2069,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "9dCUw3Cx7BuSj5iaJPwTtqzayxw",
+        "etag": "sx2V9P3xeiq1da8DdaiUh-dl-_U",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC40OEE0QTYxODY1QkE3MzNB",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "Snow Queen",
-            "description": "Based on the acclaimed children's book by Hans Christian Andersen, A young girl named Gerda battles the evil ice queen to save the world from eternal winter, with the help of some unlikely and very magical friends.",
+            "description": "A girl named Gerda, her pet ferret Luta, and Orm the troll must save her brother Kai and the world.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/-AQc0BGWskM/default.jpg",
