@@ -5077,7 +5077,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "U6xVzZQY2q4W4txaAqeuCoQuU3A",
+        "etag": "-uvc7GdAElTC16yZoLH6DbMcGfs",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BQjY2RUE4MjM2MzBEQzRB",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -8226,7 +8226,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "iyopvYerRKQR_aMI5dqNbv9MKk4",
+        "etag": "vuINbUX1Ro2zA-p-kRfOn4YmR8M",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xMjdDREI4Qzc4RDc0RTg0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -8790,49 +8790,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "jQfbvU9ENVzUDUUacrDxWwyYD1o",
+        "etag": "YweNaWTR9wjjODfnbKd4GwcYSV8",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wMTY4NzlFMzk4MTBFNjAx",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "The Ultimate Gift",
-            "description": "Jason thought his inheritance was going to be the gift of money and lots of it. Was he ever in for a big surprise. Based on the best-selling book \"The Ultimate Gift\" by Jim Stovall, the story sends trust fund baby Jason Stevens on an improbable journey of discovery, having to answer the ultimate question: \"What is the relationship between wealth and happiness?\" Jason had a very simple relationship with his impossibly wealthy Grandfather, Howard \"Red\" Stevens. He hated him. No heart-to-heart talks, no warm fuzzies, just cold hard cash. So of course he figured that when Red died, the whole \"reading of the will\" thing would be another simple cash transaction, that his Grandfather's money would allow him to continue living in the lifestyle to which he had become accustomed. But what Red left him was anything but simple. Red instead devised a plan for Jason to experience a crash course on life. Twelve tasks, which Red calls \"gifts,\" each challenging Jason in an improbable way, the accumulation of which would change him forever.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/p3A0z12RdXA/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/p3A0z12RdXA/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/p3A0z12RdXA/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/p3A0z12RdXA/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/p3A0z12RdXA/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 187,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "p3A0z12RdXA"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
