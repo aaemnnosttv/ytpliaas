@@ -11704,49 +11704,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "IJN4txtRDvP2x6ExdFI2qm7wI48",
+        "etag": "LdCQsizgV5-d-6vwFSQkd8oUUIM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BNTgzNjk0QkFBMzc1NEZE",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Held Up",
-            "description": "Michael Dawson (Jamie Foxx) is a winner. He is a sexy, smart and successful Chicago businessman on vacation with his beautiful fiancee, Rae (Nia Long). But Michael's world is turned upside down when Rae dumps him in the desert - his car is jacked by a teenager; and worse, he is taken hostage in a stickup at the local Sip and Zip. What should have been a romantic getaway, turns into one hilarious bungle after another.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/yV0fPaLM010/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/yV0fPaLM010/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/yV0fPaLM010/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/yV0fPaLM010/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/yV0fPaLM010/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 249,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "yV0fPaLM010"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
