@@ -15934,13 +15934,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "OlSmn0BwXLeFwoSod-J5RMeAP7s",
+        "etag": "A1x4NrtwCSzjyZj7zZmR8bHgi7I",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC42MTgxQzI0RDNCOUQ1MkZD",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "Ribbit",
-            "description": "Ribbit is a frog with an identity crisis. He hates hopping,water, pretty much anything a normal frog likes to do! Together with his best friend, a flying squirrel, he embarks on a journey in search of his rightful place in this world.",
+            "description": "The tale of a frog with an identity crisis.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/tahzHMWUXKA/default.jpg",
