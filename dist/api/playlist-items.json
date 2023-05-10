@@ -15511,54 +15511,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "p5UakOPCsjGX9Fuw2cN9Q37ph-Q",
-        "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC44OTgwODAxMTQ3QTJBQkI2",
-        "snippet": {
-            "publishedAt": "2023-03-23T13:17:17Z",
-            "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "THE LOST WIFE OF ROBERT DURST",
-            "description": "While Robert Durst has captured headlines with his recent arrest and controversy surrounding the documentary, The Jinx, Lifetime puts his forgotten first wife Kathie at the center of this World Premiere movie.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/qKEtodxd1zQ/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/qKEtodxd1zQ/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/qKEtodxd1zQ/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/qKEtodxd1zQ/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/qKEtodxd1zQ/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "channelTitle": "YouTube Movies",
-            "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
-            "position": 330,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "qKEtodxd1zQ"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
-        }
-    },
-    {
-        "kind": "youtube#playlistItem",
-        "etag": "rxHx0rwsgsF0ubM1vQHYdz-Xs80",
+        "etag": "TAgAdFc74nxPHJ45FuIeao9j9dE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5FMzMxM0FCMkVCNEY1OEE5",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -15594,7 +15547,7 @@
             },
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
-            "position": 331,
+            "position": 330,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "vNUblysz_EU"
@@ -15605,7 +15558,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "HhgfBtOYnPRyY6sjleW8oRAe9Q4",
+        "etag": "AFNqRI6gpy0iNH_q0zYkVobRLNY",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xODBFOTE3QzE0QzdDRkVC",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -15641,7 +15594,7 @@
             },
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
-            "position": 332,
+            "position": 331,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "YPOP_yzgc-I"
