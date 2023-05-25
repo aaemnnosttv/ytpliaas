@@ -6346,7 +6346,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "seEBm46PrpgduvBmcT8YBhsldzg",
+        "etag": "p9UaTots-2Bh7-FbMetqobeymas",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC43NjhGQTkyRTVGMUI0MTUy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -8132,49 +8132,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "KP9rKClEFj5JfZzZKFgrVTZcY5U",
+        "etag": "a2Yy1aaTwT2o9jDec_KGZ2sUNG0",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BNDNCQkZGNEQyQUJEOTA3",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Big Ass Spider!",
-            "description": "The unlikely heroic duo of a blue-collar exterminator (Greg Grunberg) and Latino security guard (Lombardo Boyar) must save the day when a giant spider escapes from a military lab and rampages the city of Los Angeles.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/f4J5cLRzEm0/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/f4J5cLRzEm0/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/f4J5cLRzEm0/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/f4J5cLRzEm0/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/f4J5cLRzEm0/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 173,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "f4J5cLRzEm0"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
