@@ -1,7 +1,7 @@
 [
     {
         "kind": "youtube#playlistItem",
-        "etag": "A4gfYGQXG-w1O9BO0RhyXklfi5k",
+        "etag": "l07T6YAnZW7Rb-F1YpGRhlI7J6I",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5ERTlDNDAzMEJFMDMzMzMz",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -424,7 +424,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "c_vcsPlaN4vVExCGdNW-HFNYal4",
+        "etag": "V38zUebGbcSgU7c79pt_NsOjrjU",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5CMjAzNTFFNUY0RDhFRTE5",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -1646,7 +1646,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "ZETxMEm_95_Ed6PXG4xQzEFYWCU",
+        "etag": "J-LvB-0CA6iFKjk8nWFY1DoqV2c",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yRkQ2OUVBNjYxOUE4Mjc3",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -2210,7 +2210,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "60eeFKrv4zDiS7vySUBo9SB2Gbk",
+        "etag": "xFZ2JCLyIYUOBhkt0eL29rqDfcw",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4zOEU3QjNBMjRGRDA0QkM1",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -2492,7 +2492,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "28cznZSNlTCzIT-0IpA-QzfOIP4",
+        "etag": "cgSxDPM8_6FOM12GJtktb_TxOB0",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xNEMzQURFODdGMTExRTdD",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -2774,7 +2774,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "cokBSA5Bwrism8r2a0PcCu0srDo",
+        "etag": "WCK0lQSzeOlCQEeas6pOtEmA794",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC44NDUwQUIxMTlGRDgxQ0Y0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -2962,7 +2962,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "cXZ1WRGRLPvYTMflU0H636WpqY0",
+        "etag": "CrVuAGlCIicfvUw8kknMoie6HsA",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC43Mzg0M0MxRUQyNzQyRThF",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -3385,96 +3385,40 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "zSy4XVJVP5Uxu0h0fdYTIuNVtyc",
+        "etag": "R99JA5nim_FDjjuhkZlRcMWrqdg",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC44NUFCNkFCMUIwNTQ5RTE5",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Cat's Meow",
-            "description": "From acclaimed director Peter Bogdanovich comes an extraordinary look at a fateful excursion aboard William Randolph Hearst's private yacht in November 1924 that brought together some of the country's best known personalities and resulted in a still-unsolved, hushed-up killing. As Hearst and his lover, actress Marion Davies, set sail from San Pedro Harbor early one Saturday morning, hosting a small group that includes the brilliant but self-absorbed Charlie Chaplin, film pioneer Thomas Ince, ambitious gossip columnist Louella Parsons and the eccentric British Victorian novelist Elinor Glyn, it quickly becomes clear that although witty repartee is theorder of the day, deceit and deception are also on the menu.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/fpk07HQ3zE0/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/fpk07HQ3zE0/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/fpk07HQ3zE0/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/fpk07HQ3zE0/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/fpk07HQ3zE0/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 72,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "fpk07HQ3zE0"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "XhTcBYaWZbcXH8EnRHAN350W-_o",
+        "etag": "q3w4xy9hsHG9L4exu_z7f7STqD4",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5CNzBDRTE0MzgyOTI5QjFG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Pumping Iron",
-            "description": "Arnold Schwarzenegger stars in this documentary about the 100 days leading up to the 1975 Mr. Olympia contest. Five-time former champion Schwarzenegger is pitted against shy newcomer Lou Ferrigno (TV's \"The Incredible Hulk\") in a showdown that is as mental as it is physical. With psychological warfare, intense determination, trash-talking, and the easy charm that would later catapult Schwarzenegger to stardom, PUMPING IRON changed the world of bodybuilding forever and launched both men's careers.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/6lCCk6rgn84/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/6lCCk6rgn84/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/6lCCk6rgn84/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/6lCCk6rgn84/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/6lCCk6rgn84/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 73,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "6lCCk6rgn84"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -5359,7 +5303,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "qaxhJeAkLkqYbNuuHaW5mMPmsww",
+        "etag": "AiH9S2-Jux7z9mxrZNqq_TLbXLw",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xQkQ0MkJGQTNGNURGNDUz",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -6252,7 +6196,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "U-iXKEMYVuublsfJNhHwdJf0pFs",
+        "etag": "44Q3otsNyxW0LehHFXTYYHgj4EM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xMjdDREI4Qzc4RDc0RTg0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -8226,49 +8170,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "SM4SigGkR9z2--eeRVzoCSDt1xo",
+        "etag": "n1nWZBVQP5gSX0muimLUf6_Mk2A",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yMDc4QjE5NTFGOEFFNkY4",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "I Am David",
-            "description": "Based on Anne Holm's novel \"North to Freedom\", I AM DAVID chronicles the struggles of a 12-year-old boy (Ben Tibber) who manages to flee a Communist concentration camp through sheer will and determination. All he has in his possession is a loaf of bread, a letter to deliver to someone in Denmark and a compass to help get him there.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/lAoHN4xC_7c/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/lAoHN4xC_7c/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/lAoHN4xC_7c/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/lAoHN4xC_7c/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/lAoHN4xC_7c/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 175,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "lAoHN4xC_7c"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -8555,49 +8471,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "pK62qoU66hQVQVMq4M59gh-ArHk",
+        "etag": "FQ_rR7HvKbOfje_HvCOKH8a9keE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5GRTRCNUJBOEEwMjk4MUQy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Shaquille O'Neal Presents: All Star Comedy Jam - Live from Sin City",
-            "description": "Shaquille O'Neal presents host Lavell Crawford (\"Breaking Bad,\" Mike and Dave Need Wedding Dates, and American Ultra) with special guests K-Dubb, Cocoa Brown, Donnell Rawlings, and Earthquake to deliver one of the funniest nights of comedy yet. Shaquille O'Neal's All-Star Comedy Jam: Live from Sin City was filmed live at the Penn & Teller Theater in Las Vegas.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/LDAqz3yL9mM/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/LDAqz3yL9mM/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/LDAqz3yL9mM/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/LDAqz3yL9mM/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/LDAqz3yL9mM/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 182,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "LDAqz3yL9mM"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -8837,7 +8725,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "RD4GITGzR4KYjU59x3FGqdu6JQE",
+        "etag": "TR5fCP13ujfjHHYVMbtpRKcCdkk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5DOTk1NzFBNzQ0N0QyQTE4",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -10623,49 +10511,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "YnpF_lyyo49HshueIS1nNatHf0g",
+        "etag": "-pphB2W3d9F_jv4EuYMoLa2MZzU",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yNTdFNzJEOTcyQ0NCMDQy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Touchback",
-            "description": "In the tradition of FIELD OF DREAMS, TOUCHBACK is a story about sports, faith, and realizing that everything you need is already in front of you. Facing foreclosure on his home, former high school football star-turned-farmer-and-family-man, Scott Murphy (Brian Presley of BORDERLAND) has found rock bottom. But, after bumping his head, he finds himself with a unique opportunity to revisit his glory days before the Ohio State championship where he permanently injured his knee in a game-winning play. Given a second shot at destiny, Scott seeks his mentor, Coach Hand (Kurt Russell of MIRACLE, DREAMER), to help him decide whether to let his fate unfold or change his future. Also starring Melanie Lynskey (TV's TWO AND A HALF MEN), Marc Blucas (TV's NECESSARY ROUGHNESS), Sarah Wright (THE HOUSE BUNNY) and Christine Lahti (TV's LAW & ORDER: SVU, CHICAGO HOPE).",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/ssnVutpE-mE/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/ssnVutpE-mE/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/ssnVutpE-mE/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/ssnVutpE-mE/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/ssnVutpE-mE/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 226,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ssnVutpE-mE"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -10811,7 +10671,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "lJX0_yswalfh7egTWS6MQouCJCg",
+        "etag": "8ehtKdoo4mtv-_gh92Ee9uFaWS8",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xMUFBRUY0NTZDNUE3Nzk2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -14054,7 +13914,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "tStw0fIk45TrhKV_EXvLa1m1pTk",
+        "etag": "4yCLyH05l_MaUx5tKPUB26CJUJ8",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wODBFOUU1NjI5QTQ2MTE2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
