@@ -189,49 +189,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "xq_Hf2tHM_J6blwszeDNwM5u7jc",
+        "etag": "IBx-TNa8Rq9CBi2kSwN8MZ0xN9w",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4zMTI5RkUzNkI3MTIzNUJG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Biker Boyz",
-            "description": "Laurence Fishburne [The Matrix] is Smoke, the \"King of Cali\" - the undefeated and undisputed racing champion.  His dominance and title are challenged by Kid [Derek Luke, Antwone Fisher], a fierce young racing prodigy, in this electrifying story of modern-day daredevils in the ultimate race to win the survival of the fastest.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/1mcJo4E_hrY/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/1mcJo4E_hrY/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/1mcJo4E_hrY/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/1mcJo4E_hrY/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/1mcJo4E_hrY/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 4,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "1mcJo4E_hrY"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -2539,49 +2511,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "rM4yqvaC4T-qdzPRoFa4WJTlrxQ",
+        "etag": "rME29jYebwQyR0q6CxyJ2hJ1_yM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5GMTc2RkFBOTQ5OTQ5QTc4",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Hot Rod",
-            "description": "Amateur stuntman Rod Kimble (ANDY SAMBERG) has a problem - his step-father Frank (IAN MCSHANE) is a jerk.  Frank picks on Rod, tosses him around like a rag doll in their weekly sparring sessions, and definitely doesn't respect him, much less his stunts.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/iNBFpgUGPzs/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/iNBFpgUGPzs/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/iNBFpgUGPzs/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/iNBFpgUGPzs/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/iNBFpgUGPzs/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 54,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "iNBFpgUGPzs"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -6628,13 +6572,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "4_mso9ChPnZQQwNNDwWMhO1DqEs",
+        "etag": "zg3Pee-KesUy9myVCwZ741DgZrk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4zQ0MwNUQyQzVCQjM2RjEy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "Dracula: Dead and Loving It",
-            "description": "http://www.hbomax.com Mel Brooks takes a turn at a classic horror tale. The vampires are loose, but somehow everyone's having a great time, including the undead count himself in Dracula: Dead and Loving It.",
+            "description": "Mel Brooks takes a turn at a classic horror tale. The vampires are loose, but somehow everyone's having a great time, including the undead count himself in Dracula: Dead and Loving It.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/5O4eaxJJ-Pc/default.jpg",
