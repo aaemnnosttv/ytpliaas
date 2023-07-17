@@ -10576,54 +10576,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "tdEWKFuR0LpSNCeQR09Urv4DzTw",
-        "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yQzNGQjk3QjkwODVDOTk2",
-        "snippet": {
-            "publishedAt": "2023-03-23T13:17:17Z",
-            "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "The Protector 2",
-            "description": "When Boss Suchart is murdered, all evidence points to Kham (Tony Jaa). Forced to run as he fights to clear his name, he is hunted by not only the police, but Boss Suchart's revengeful twin nieces and LC (RZA), a crime lord with his own agenda. A sequel of the global smash-hit The Protector, this extreme fight movie is an endlessly intense, nerve-racking film full of daredevil stunt scenes and amazingly choreographed fighting moves that will pump hot blood through the body of all action fans!",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/OWyzUjSCdPU/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/OWyzUjSCdPU/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/OWyzUjSCdPU/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/OWyzUjSCdPU/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/OWyzUjSCdPU/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "channelTitle": "YouTube Movies",
-            "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
-            "position": 225,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "OWyzUjSCdPU"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
-        }
-    },
-    {
-        "kind": "youtube#playlistItem",
-        "etag": "frq6T4BgvvUiQXz-q_73BrsM5xo",
+        "etag": "h2PLxWroMoJnXOue3yO-Djfr3TU",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wODBFOUU1NjI5QTQ2MTE2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -10659,7 +10612,7 @@
             },
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
-            "position": 226,
+            "position": 225,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "uj8brxnsJQg"
@@ -10670,7 +10623,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "NCIXLcgyCRAYzckRW5glSpPLC5o",
+        "etag": "feADhR0DtN0sAR04CQSxmPgpdgA",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xODBFOTE3QzE0QzdDRkVC",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -10706,7 +10659,7 @@
             },
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
-            "position": 227,
+            "position": 226,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "YPOP_yzgc-I"
