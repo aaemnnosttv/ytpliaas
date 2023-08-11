@@ -8790,49 +8790,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "M32oy-IJ4Eq4Sp4g2olPx-FoA2o",
+        "etag": "YTbcIzT-53N-twu0RdlB1nOs0bU",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5DNzU4ODlBNjM3MTg1QTFF",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
-            "description": "Many years ago, the Great Dog Demon wielded the Three Swords of the Fang. Upon his death, he bequeathed a sword to each of his sons, Inuyasha and Sesshomaru, leaving the third sword, the wrath-filled Sounga, locked away forever. Now that the Sounga's power has been awakened, these two battling brothers must put away their sibling rivalry and face off against the force that spells doom for all mankind.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/oZCzcS9N10E/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/oZCzcS9N10E/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/oZCzcS9N10E/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/oZCzcS9N10E/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/oZCzcS9N10E/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 187,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "oZCzcS9N10E"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
