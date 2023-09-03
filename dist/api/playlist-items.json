@@ -8743,49 +8743,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "VxMylS3kvVTPLwHgJ9NI4mrEAZs",
+        "etag": "OsqVyGyl6ftY-_6gaaiGLs9r9Zw",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yOUQzNTk5MkFBRjc2RTg0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Bait Shop",
-            "description": "Something fishy is happening at Bill's Bait Shop. Forced to come up with $15,000 or else witness his small-town bait shop become the one that got away, Bill (Bill Engvall) must rely on a comedic cast of friends and family to hook the \"the big one.\" Putting his reel skill to the test, Bill enters the annual Bass Tournament against rival bait shop owner Hot Rod Johnson (Billy Ray Cyrus), who's determined to put his money where his large mouth is. It's Bill's last chance to prove that in this pond called life, he's still the big fish.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/8-Rxx9gibrE/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/8-Rxx9gibrE/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/8-Rxx9gibrE/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/8-Rxx9gibrE/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/8-Rxx9gibrE/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 186,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "8-Rxx9gibrE"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
