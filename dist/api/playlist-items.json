@@ -4231,13 +4231,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "xK7riTY6wiqqFWWCBRZn-pi3NkQ",
+        "etag": "9qJkgkhZmN3pqIeWl8PJoEB8yrY",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC42MjQxNTNCODJBOTI4QzRG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "The Code",
-            "description": "A veteran thief (Morgan Freeman) recruits a younger crook (Antonio Banderas) to help him pull off one final job in order to repay his debt to the Russian mob.",
+            "description": "A veteran thief (Morgan Freeman) recruits a younger crook to help him pull off one final job.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/m3lL5aiEiqk/default.jpg",
