@@ -3385,49 +3385,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "JiXlp2MXwFNSMNadcMtvs7Ao45c",
+        "etag": "YWGKUeCIlp0urOhLOYmVNahnzDE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BMkQ2QUZDRjBDMjA5RDk2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "The World's Fastest Indian",
-            "description": "The story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle -- a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967. MPAA Rating: PG-13",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/5fK1pZ38lqw/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/5fK1pZ38lqw/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/5fK1pZ38lqw/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/5fK1pZ38lqw/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/5fK1pZ38lqw/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 72,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "5fK1pZ38lqw"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
