@@ -706,49 +706,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "lXhrhBc0YvY0ko91p76uFZWhNtk",
+        "etag": "IQFcR3q6CmbfqznXskyRgjCqOi8",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41NjQyNkMwOEY5MzRERjA2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Blackfish",
-            "description": "Killer whales are beloved, majestic, friendly giants, yet infamous for their capacity to kill viciously. Blackfish unravels the complexities of this dichotomy, employing the story of the notorious performing whale Tilikum, who — unlike any orca in the wild — has taken the lives of several people while in captivity. Blackfish expands on the discussion of keeping such intelligent creatures in captivity.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/VnSCBNmLuAA/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/VnSCBNmLuAA/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/VnSCBNmLuAA/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/VnSCBNmLuAA/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/VnSCBNmLuAA/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 15,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "VnSCBNmLuAA"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
