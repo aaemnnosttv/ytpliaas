@@ -9730,49 +9730,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "qJZE4pdam1SnvkimE0dcKPDjB-A",
+        "etag": "xYpyPgHKOPQLK8svCUmwl-Ar94M",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC42MzA2NzBGRDc2QTE2QTMy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "The Legend of Bruce Lee",
-            "description": "The story of the legendary martial arts icon Bruce Lee following him from Hong Kong to America and back again, leading up to his tragic death at the age of 32.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/Pg0KlPHd4HM/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/Pg0KlPHd4HM/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/Pg0KlPHd4HM/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/Pg0KlPHd4HM/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/Pg0KlPHd4HM/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 207,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Pg0KlPHd4HM"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
