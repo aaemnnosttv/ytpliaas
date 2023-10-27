@@ -4372,13 +4372,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "kVC9RieOJJaTGuWRXMt1hgD9AWc",
+        "etag": "OQ4hcWcOwod_u2rsK-Wn-7nc-cE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xOTJENUEyNEQ0MDkyNTBE",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "17 Miracles",
-            "description": "The Willie Handcart Company treks across America to the Salt Lake Valley, \nexperiencing many trials and deaths, as well as 17 miracles.",
+            "description": "The Willie Handcart Company treks across America to the Salt Lake Valley, experiencing many trials and deaths, as well as 17 miracles.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/qt2OUTU4Sqo/default.jpg",
