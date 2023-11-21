@@ -5406,49 +5406,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "sVyNCF1PpFIl337A9-Nu7uFP5DI",
+        "etag": "iUdMI0hlMbuad19sJxptzDkzAgk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5FNTU5NUM0MjczRTYwQ0I4",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Son Of Godzilla",
-            "description": "A reporter stumbles upon weather experiments on a tropical island, discovering giant mantids, a cast away woman, and an infant monster that Godzilla must adopt and learn to raise as one of his own.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/jCjybiOKkJ8/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/jCjybiOKkJ8/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/jCjybiOKkJ8/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/jCjybiOKkJ8/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/jCjybiOKkJ8/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 115,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "jCjybiOKkJ8"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -5829,49 +5801,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "8D6ymUVlpqsXVOZTLJ2l5N_LPJM",
+        "etag": "JgCj02Qwa15cRnQiBM0HcsO0cKE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC45NTc4NDBGNzFFMTZCNEM2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Godzilla vs. Megalon",
-            "description": "The undersea nation of Seatopia sends the gigantic Megalon to destroy the world above - and it's up to Godzilla and a size-shifting robot, Jet Jaguar, to defeat him.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/i3zrl53sFGU/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/i3zrl53sFGU/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/i3zrl53sFGU/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/i3zrl53sFGU/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/i3zrl53sFGU/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 124,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "i3zrl53sFGU"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -6487,49 +6431,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "pXMW7G47eZ3YRAParTI5Fe9KZTY",
+        "etag": "OycPDElLJg14r7tEeQyEW7Fiq84",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41RTlDMEM3ODBEMEQ2MTA5",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "On Golden Pond",
-            "description": "The legendary Henry Fonda and Katharine Hepburn star in one of the 1980s' most honored and cherished films, On Golden Pond. Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/IelsblcDX44/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/IelsblcDX44/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/IelsblcDX44/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/IelsblcDX44/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/IelsblcDX44/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 138,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "IelsblcDX44"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -6722,49 +6638,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "CwKMAuIJCKfIzfHnFkj82PyBe-8",
+        "etag": "WntkwvK6wMin0cMI_jix6xeeNtM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5FMTBCN0MzMDg1MTUxNDJD",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Godzilla, The Uncut Japanese Original (Gojira)",
-            "description": "American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/nn-Wg1NU32I/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/nn-Wg1NU32I/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/nn-Wg1NU32I/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/nn-Wg1NU32I/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/nn-Wg1NU32I/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 143,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "nn-Wg1NU32I"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -7474,49 +7362,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "OlSnW0Tk1XzbqmOoCRfe8O2S96A",
+        "etag": "Hzm0bWSVQbz0KyAXPmWn4hExI6c",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41QTU1MzY2OTA3NjM3NjBD",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Godzilla vs. Mechagodzilla",
-            "description": "An Okinawan prophecy appears to foretell Earth's destruction at the hands of Godzilla, only for the true Godzilla to reveal his doppelganger as a mechanical alien weapon.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/uLP7WTL9sw8/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/uLP7WTL9sw8/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/uLP7WTL9sw8/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/uLP7WTL9sw8/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/uLP7WTL9sw8/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 159,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "uLP7WTL9sw8"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -7568,49 +7428,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "Mt5agGjLWxOYBQ0FttLaPbptxn8",
+        "etag": "dxqrHCwUputzsJLttGkJCoUB6WM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5GM0I3QTZCMjYwRURDRkFC",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Invasion Of Astro-Monster",
-            "description": "Aliens from Planet X request the use of Godzilla and Rodan to fight off King Ghidorah, but have a better use for the three monsters.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/Qj4L7EN7crw/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/Qj4L7EN7crw/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/Qj4L7EN7crw/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/Qj4L7EN7crw/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/Qj4L7EN7crw/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 161,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Qj4L7EN7crw"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -7709,7 +7541,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "A87MR-hNlSOQfmmaMraAVosExtE",
+        "etag": "44G-PuC2WkDYLKRMETg30SIUi8Y",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wM0M3OUE1RTE1MEMwN0Yy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -8320,49 +8152,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "UJ6G2KIitdlBvTLwIMYfRGZJ6ZQ",
+        "etag": "SUr_4InuYjtM2GdPZmnuqR4mi0c",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wOTRCMzQ0QzM5QkYxMDBG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Godzilla, King Of The Monsters!",
-            "description": "A 400-foot dinosaur-like beast, awoken from undersea hibernation off the Japanese coast by atomic-bomb testing, attacks Tokyo.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/0yzKSjmATFs/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/0yzKSjmATFs/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/0yzKSjmATFs/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/0yzKSjmATFs/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/0yzKSjmATFs/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 177,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "0yzKSjmATFs"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
