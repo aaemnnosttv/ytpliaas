@@ -5171,13 +5171,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "Kh4hIDSmeXxi0dtYPjielXwQfWA",
+        "etag": "YxB7mK8fpNSw3vBgenrjD3buCYk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4zQ0MwNUQyQzVCQjM2RjEy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "Dracula: Dead and Loving It",
-            "description": "Mel Brooks takes a turn at a classic horror tale. The vampires are loose, but somehow everyone's having a great time, including the undead count himself in Dracula: Dead and Loving It.",
+            "description": "www.max.com Mel Brooks takes a turn at a classic horror tale. The vampires are loose, but somehow everyone's having a great time, including the undead count himself in Dracula: Dead and Loving It.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/5O4eaxJJ-Pc/default.jpg",
@@ -5829,7 +5829,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "Mha8aFhYuy3uli0WyUEvjq4xBI0",
+        "etag": "0OzLwL4bjsYj1Lfwra81zTmJyIM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BQjVCNDQwNDVBMTk5NUQ1",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
