@@ -4560,49 +4560,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "usAKnVTSCN7aIRmhDnnmSCtELnM",
+        "etag": "PTFL-hUD08wIGJxNAapElTqYNis",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5GODQwREI4QzUwRDY3MkE2",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Fortnite: Battle, Build, Survive!",
-            "description": "With over 125million active players around the globe, Fortnite has taken the world by storm. It has changed lives, created universal stars and enhanced careers in the world of streaming. On top of that it is now branching out and becoming one of the biggest Esports to date. So grab your pickaxe, jump out of the battle bus and join us on the battlefield as we explore one of the biggest games the world has ever seen. This is Fortnite.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/2KF9xGYGN7U/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/2KF9xGYGN7U/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/2KF9xGYGN7U/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/2KF9xGYGN7U/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/2KF9xGYGN7U/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 97,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "2KF9xGYGN7U"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -6534,7 +6506,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "Uss51HJZYj_ED5pmpGT9Rek-u8g",
+        "etag": "n4BTaLD626T4DLOkbKiiWMWtU3I",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41QkJBRTFCQkI2RTA3QUUy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
