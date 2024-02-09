@@ -471,7 +471,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "Kgq5j1AJl4gGBPc7D6lmmho7fdE",
+        "etag": "PjGDIoaaEbaZMYurUvyqC1g2I34",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5DMjlDN0ExOEIzNzUyOTVF",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -847,49 +847,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "eQF1uKc5Mxv42xfd3-TZVpGw70I",
+        "etag": "9DE1ngDyarzgLTYkusIgTShNf3c",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC44OEUxREIyQzFEMzA2MEEy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Shaolin",
-            "description": "After ambushing and killing his rival, losing everything in the process, dispirited warlord Hou Jie turns to a Shaolin monastery seeking salvation.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/pcIuVT3X_UI/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/pcIuVT3X_UI/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/pcIuVT3X_UI/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/pcIuVT3X_UI/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/pcIuVT3X_UI/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 18,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "pcIuVT3X_UI"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
