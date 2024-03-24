@@ -518,7 +518,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "hLrJxD8UMilxk8_SIed8va0qu84",
+        "etag": "R6rThYW0DQ-NF5iA169Vq18p9qk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BNDJEQUE2RkI1RDNDOTM3",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -1223,12 +1223,12 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "szQJ_WYl6k3Tu9m8jd6lTa_7bV4",
+        "etag": "4GNbxiDXLH0ZTCWIDyi2hxtgYzE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yNEFCMzNFNzVENEZDNDhG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Bill Engvall: Just Sell Him for Parts",
+            "title": "Bill Engvall: Just Sell Him For Parts",
             "description": "Original standup comedy special featuring the original material of Bill Engvall.",
             "thumbnails": {
                 "default": {
@@ -1458,7 +1458,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "JTHqnfOgav5BlCjDxallszvHbjs",
+        "etag": "8SM8jidJq5UeL_tpHspvTaN_DjE",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5GMDUxNTkwNjNDRTIxODVG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -1505,7 +1505,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "uH-fMopXdbu69hgxuKj4m1Icc0M",
+        "etag": "zX_qzFC8VrHzkloG7UeBiMaWjuo",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wQ0JBODY1QjNFQTE2NUM0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -2351,13 +2351,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "EXuDHJSZ19HQHnURSJd70XXLmQY",
+        "etag": "JWaJHhj55oZI8jFx15OoU4qrgV8",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5FNkMzRUQ0QzZBRjE4QUY1",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Blue Collar Comedy Tour: Rides Again",
-            "description": "Jeff Foxworthy, Bill Engvall, Ron White, and Larry the Cable Guy return on-stage to give some funny redneck laughs and humorous spins on everyday affairs.",
+            "title": "Blue Collar Comedy Tour Rides Again",
+            "description": "Bill Engvall, Ron \"Tater Salad\" White, Jeff Foxworthy, and Larry the Cable Guy return on-stage to give some funny redneck laughs and humorous spins on everyday affairs.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/y5us_eavfCA/default.jpg",
@@ -2868,7 +2868,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "1bI2oO9PVeTn8rNDs-jgO2JTcxo",
+        "etag": "xW5rENT3sm9iuFjfdE8jQY6YPVQ",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BNTMzOUFBQ0VFQkMzNEY3",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -3197,7 +3197,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "gosEXOD2QtCfFF90LWqpZ21Wito",
+        "etag": "UM0cniPQL81gKngW5dS_GTyylcc",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC42RjA0REFFRjJGRkE4QjUy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -3291,7 +3291,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "1Nm2KJ7nTt7kb8O3wUZk9UwJ27U",
+        "etag": "5p-6gSfAVwlv8JGUAfQRzLd0WR0",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4yNkFGMTlDMTE5MzY2RjhD",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -3573,7 +3573,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "MDK61bQh9XNPg65hYxfzJCqmXJQ",
+        "etag": "IOh_4sLwREXu1M_SunKHm9P2PtI",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4xOTJENUEyNEQ0MDkyNTBE",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -3620,7 +3620,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "bWXcsRS7kVGn758QSO2sK13Md60",
+        "etag": "HUldhaMd_xlpYp68o2Ry0WC87nw",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wRDdEQkU3MjRFODUwQTdG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -3949,7 +3949,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "p0ZZ0crpkHxG5xPsDdD8QGGNttI",
+        "etag": "ifbG0o6MqlPDd-VjBsLBVnwYNP8",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41QzZBRjQyREQ5Nzg3RDU0",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -4278,7 +4278,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "nw8AoGpHG14BxwrjG_XOGjTOE-4",
+        "etag": "VFIyuPUxs4DmMExkd0DOtritFQ0",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5CNjdCQkQ1MThEQkVFRDI3",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -4701,7 +4701,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "ajobLtLQqDNl_TLVDSor0A2BgoU",
+        "etag": "Qk338ZAT80EmVzTnJqqP-STBPuI",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BQjVCNDQwNDVBMTk5NUQ1",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -5030,7 +5030,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "Aa_de84jWii5kAgIQ0th0z5eVRk",
+        "etag": "5RX1aujb_d_FmIW7rMwJu2N5cNk",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5FNDgwQTM0NTBERkYwNjdB",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -5359,7 +5359,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "gQEITIymcU9SeS30EHBXqJ3LKb0",
+        "etag": "8ocYGYL642PXdXSo8jr7Jvjxvh0",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41QkJBRTFCQkI2RTA3QUUy",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -5406,7 +5406,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "U9lXDQ0m3yJE_wYyXHLqjBGZ8eo",
+        "etag": "GzPuEDk-oCvXJDY5Lu2idERYkA0",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC45M0QyMkZFQjc5MjA2NzhG",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -6346,7 +6346,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "B3aWWPwezSyyK4h_v6sHgyQdIKs",
+        "etag": "K33b9Tx-S7xIBnj617oTmx2oiQw",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC41NURDOTY1M0FGNUNDOTMz",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -6581,7 +6581,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "nSaoKWnpvSKqiEm2WJ11Z6RUA-o",
+        "etag": "XbxvXPHDwKzISReUTop-fS5eEY4",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BQ0I3OUNDRTFCRjM0ODdE",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -6628,7 +6628,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "iDnQWWbR2YwXHDgryzcM1J8giac",
+        "etag": "Mmjx241uAnBerrsW4JOpBssktrU",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BOTcxQkVFRkFDQjQ5MDFD",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
