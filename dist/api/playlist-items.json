@@ -1881,49 +1881,21 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "3neU3hEBBnsZW7DAX4rtZVgaWkc",
+        "etag": "RWdWm5XewR4TW8F3TDwtzaeb2HM",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC45MkFDNEMyRUQxQTJGM0Qz",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
-            "title": "Maya the Bee Movie",
-            "description": "Maya is a little bee with a big heart! Join her on an epic adventure.",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/-UmdwHeCocs/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/-UmdwHeCocs/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/-UmdwHeCocs/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/-UmdwHeCocs/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/-UmdwHeCocs/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
+            "title": "Private video",
+            "description": "This video is private.",
+            "thumbnails": {},
             "channelTitle": "YouTube Movies",
             "playlistId": "PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx",
             "position": 40,
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "-UmdwHeCocs"
-            },
-            "videoOwnerChannelTitle": "YouTube Movies",
-            "videoOwnerChannelId": "UCuVPpxrm2VAgpH3Ktln4HXg"
+            }
         }
     },
     {
@@ -3432,13 +3404,13 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "OwDje-vKuoJg652z_CjP_3HL6-A",
+        "etag": "adcosR6VXIpWOIaNPlZruyCKaww",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wM0REQ0RGOEZCRTM3Q0Q5",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
             "channelId": "UClgRkhTL3_hImCAmdLfDE4g",
             "title": "Halo Legends",
-            "description": "Enjoy a collection of 7 stories from the Halo Universe created by Japan's most creative minds. Origins shows expansive history of the Halo Universe.",
+            "description": "The universe of the Halo video game series is expanded in seven short animated films from Japan's greatest anime directors and studios.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/DofP5Zt1Gdk/default.jpg",
@@ -3761,7 +3733,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "0ukCiAVltjaOwnQBFAcY95x0Vzw",
+        "etag": "MYIjxByGiiRqtUwAHg7xe5e8D9w",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC5BQTg4NzMyRjM5REUwRTk4",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -4983,7 +4955,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "e79zlGe5W1c6JHfl8cQVGjykBEk",
+        "etag": "tDO5rddF117h1-xQxmResZHMc30",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC44MzY3NzY4MTQwREUxODc1",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
@@ -5265,7 +5237,7 @@
     },
     {
         "kind": "youtube#playlistItem",
-        "etag": "02Yxykf90GvQLO3H5MgKCyJKKnQ",
+        "etag": "RxVqAgs0dvsNkHHlN2kFiLfPP-g",
         "id": "UExIUFR4VHh0QzBpYlZaclQyX1dLV1VsMlNBeHNLdUt3eC4wRjUxRDdENTkwMzM2Q0VF",
         "snippet": {
             "publishedAt": "2023-03-23T13:17:17Z",
